@@ -1,0 +1,10 @@
+C:\Users\Bao\Desktop\Codes\C#\Minh\Bookstore\Bookstore\Bookstore\bin\Debug\Bookstore.exe.config
+C:\Users\Bao\Desktop\Codes\C#\Minh\Bookstore\Bookstore\Bookstore\bin\Debug\Bookstore.exe
+C:\Users\Bao\Desktop\Codes\C#\Minh\Bookstore\Bookstore\Bookstore\bin\Debug\Bookstore.pdb
+C:\Users\Bao\Desktop\Codes\C#\Minh\Bookstore\Bookstore\Bookstore\obj\Debug\Bookstore.csprojAssemblyReference.cache
+C:\Users\Bao\Desktop\Codes\C#\Minh\Bookstore\Bookstore\Bookstore\obj\Debug\Bookstore.BookStoreViewMainPanel.resources
+C:\Users\Bao\Desktop\Codes\C#\Minh\Bookstore\Bookstore\Bookstore\obj\Debug\Bookstore.Properties.Resources.resources
+C:\Users\Bao\Desktop\Codes\C#\Minh\Bookstore\Bookstore\Bookstore\obj\Debug\Bookstore.csproj.GenerateResource.cache
+C:\Users\Bao\Desktop\Codes\C#\Minh\Bookstore\Bookstore\Bookstore\obj\Debug\Bookstore.csproj.CoreCompileInputs.cache
+C:\Users\Bao\Desktop\Codes\C#\Minh\Bookstore\Bookstore\Bookstore\obj\Debug\Bookstore.exe
+C:\Users\Bao\Desktop\Codes\C#\Minh\Bookstore\Bookstore\Bookstore\obj\Debug\Bookstore.pdb
